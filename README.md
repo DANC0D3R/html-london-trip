@@ -1,5 +1,6 @@
 Esercizio: Viaggio a Londra
-Nome repo: html-london-trip
+
+Nome Repo: html-london-trip
 
 Descrizione:
 Riproducete il layout dell'immagine allegata utilizzando i tag che abbiamo visto stamattina aiutandovi con le slide di stamattina.
